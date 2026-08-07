@@ -4,6 +4,7 @@ A small collection of business analytics projects covering price/revenue optimiz
 🔗 Live Dashboard
 
 Check out the interactive Tableau dashboard here:https://public.tableau.com/authoring/Zomato_17854797751400/Dashboard1#1
+Another Dashboard for customer data : https://public.tableau.com/authoring/CustomerData_17860957367020/Sheet4#1
 
 📁 Repository Contents
 File	Description
