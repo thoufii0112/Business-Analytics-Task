@@ -37,3 +37,14 @@ Jupyter Notebook
 Tableau Public — interactive dashboards
 
 This repository showcases practical business analytics skills: turning raw sales data into actionable pricing insights and communicating findings through both code-based visualizations and interactive dashboards.
+
+### TASK9
+
+TABLEAU: https://public.tableau.com/app/profile/thoufeeq.a/viz/Task9_17899735771690/Dashboard1
+
+
+
+
+
+
+
