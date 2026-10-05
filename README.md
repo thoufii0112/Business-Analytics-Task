@@ -46,7 +46,17 @@ Task 11
 
 https://public.tableau.com/views/task11_17911772789740/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+Write 5 Business Insights Based on the Visualizations
+1. Sales performance: The dashboard shows the overall sales performance of the business and helps identify the level of revenue generated from customer orders.
+2. Order performance: The visualizations show the distribution and volume of orders, indicating the overall purchasing activity of customers.
+3. Customer spending: The average order value provides an understanding of how much customers generally spend in each transaction.
+4. High and low sales: The comparison of order amounts helps identify high-value and low-value transactions, showing differences in customer purchasing behaviour.
+5. Sales trends: The visualizations help identify changes in sales across different periods, which can be used to understand peak and low-performing periods.
 
+
+Provide 2 Business Recommendations Based on Your Findings
+1. Increase sales during high-performing periods: The company should focus marketing campaigns, special offers and product promotions during periods with strong sales to maximize revenue.
+2. Encourage higher customer spending: The company should introduce product bundles, discounts on larger purchases and cross-selling recommendations to increase the average order value.
 
 
 
