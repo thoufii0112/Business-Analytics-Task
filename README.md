@@ -42,6 +42,10 @@ This repository showcases practical business analytics skills: turning raw sales
 
 TABLEAU: https://public.tableau.com/app/profile/thoufeeq.a/viz/Task9_17899735771690/Dashboard1
 
+Task 11
+
+https://public.tableau.com/views/task11_17911772789740/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 
 
