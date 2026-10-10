@@ -58,6 +58,19 @@ Provide 2 Business Recommendations Based on Your Findings
 1. Increase sales during high-performing periods: The company should focus marketing campaigns, special offers and product promotions during periods with strong sales to maximize revenue.
 2. Encourage higher customer spending: The company should introduce product bundles, discounts on larger purchases and cross-selling recommendations to increase the average order value.
 
+Task 12
+https://public.tableau.com/views/Task_17916135642950/Sheet4?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+3 Key Findings from the Analysis
+1. Variation in Buyer Performance: The dashboard shows that buyers such as Jasmine Mcgee and Walter Pena have relatively high purchase quantities, while some buyers have lower quantities.
+2. Category-wise Sales Distribution: The stacked bar chart shows that buyers purchase products across multiple categories, including Accessories, Electronics, Furniture, Office Supplies, Software, and Stationery. Electronics and Furniture contribute significantly to several buyers’ quantities.
+3. Differences in Total Cost: The charts indicate variations in total cost among buyers. Some buyers generate higher costs than others, highlighting differences in purchasing behavior and potential customer value.
+2 Suggestions / Recommendations
+1. Focus on High-Value Buyers: Offer loyalty programs, bulk-purchase discounts, and personalized deals to high-performing buyers to encourage repeat purchases and strengthen customer relationships.
+2. Improve Category-Based Marketing: Analyze demand across product categories and create targeted promotions for categories with strong purchasing activity. Encourage buyers to explore less-purchased categories through special offers and product bundles.
+1 Overall Conclusion
+The dashboard reveals differences in buyer purchasing quantities, product category preferences, and total costs. By identifying high-value buyers and understanding category-wise demand, the business can improve its marketing strategies, increase customer retention, and drive overall sales growth.
 
 
 
